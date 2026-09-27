@@ -21,9 +21,9 @@ Dieses Repository enthält deutschsprachige Wardogs-Guides und HTML-Vorlagen fü
 
 ## Fachliche Grundlage: Hot Zone
 
-Die Hot Zone bewegt sich innerhalb der Control Zone. Sie verdoppelt Spielerwertung, XP und Geld. Siegpunkte bekommt das Team mit der größten gewerteten Spielerzahl in der gesamten Control Zone; Spieler in der Hot Zone zählen dabei doppelt. Das bedeutet keine automatisch verdoppelten Siegpunkte.
+Die Hot Zone bewegt sich innerhalb der Control Zone. Sie verdoppelt Spielerwertung und Geld. XP werden nicht verdoppelt. Siegpunkte bekommt das Team mit der größten gewerteten Spielerzahl in der gesamten Control Zone; Spieler in der Hot Zone zählen dabei doppelt. Das bedeutet keine automatisch verdoppelten Siegpunkte.
 
-Die Hot Zone muss nicht dauerhaft besetzt sein. Ob man sie besetzt, Gegner abfängt oder einen anderen Teil der Control Zone nutzt, hängt von der Situation ab. Die Herkunft dieser Aussagen und der XP-Ergänzung ist in `docs/context.md` festgehalten.
+Die Hot Zone muss nicht dauerhaft besetzt sein. Ob man sie besetzt, Gegner abfängt oder einen anderen Teil der Control Zone nutzt, hängt von der Situation ab. Die Herkunft dieser Aussagen und der Korrektur zum XP-Bonus ist in `docs/context.md` festgehalten.
 
 ## Gestaltung
 

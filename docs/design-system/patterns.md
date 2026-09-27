@@ -23,13 +23,13 @@ Die rechteckigen Zonen in diesem Beispiel sind eine vereinfachte Darstellung. Si
 
 ## Gemeinsamer Multiplikator
 
-Ein großes **×2** verbindet sich über eine gemeinsame Linie mit drei benannten Effekten: Spielerwertung, XP und Geld. Die Linie zeigt, dass derselbe Bonus für alle drei gilt. Die Erläuterung zur Spielerwertung nennt die Siegpunktberechnung ausdrücklich.
+Ein großes **×2** verbindet sich über eine gemeinsame Linie mit zwei benannten Effekten: Spielerwertung und Geld. Die Linie zeigt, dass derselbe Bonus für beide gilt. Die Erläuterung zur Spielerwertung nennt die Siegpunktberechnung ausdrücklich.
 
 Das Muster passt für einen gemeinsamen Modifikator mit mehreren Folgen. Unterschiedliche Werte, zeitliche Abläufe oder Voraussetzungen brauchen eine andere Darstellung.
 
 ## Beschriftungen
 
-Labels benennen Orte, Werte oder Handlungen. Erläuterungen ergänzen nur, was aus der Grafik noch nicht hervorgeht. **„Alles doppelt“** bleibt unmittelbar mit den drei konkreten Effekten verbunden; daraus wird keine Aussage über Munition, Schaden oder andere Spielwerte.
+Labels benennen Orte, Werte oder Handlungen. Erläuterungen ergänzen nur, was aus der Grafik noch nicht hervorgeht. **„Der ×2-Bonus“** bleibt unmittelbar mit den beiden konkreten Effekten verbunden; daraus wird keine Aussage über XP, Munition, Schaden oder andere Spielwerte.
 
 Keine erfundenen Spieloberflächen, dekorativen Statistikanzeigen oder wiederholten Textkarten ergänzen. Die Zonen in der Skizze sind vereinfachte Diagrammflächen. Für zusätzliche allgemeine Icons Tabler verwenden, sofern kein bestehendes passendes Symbol vorliegt; SVGs lokal einbetten.
 

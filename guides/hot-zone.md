@@ -1,12 +1,12 @@
 # Die Hot Zone
 
-In der Hot Zone zählst du doppelt und bekommst doppelte XP und doppelt so viel Geld. Ob es sich lohnt, sie zu besetzen, hängt von der Situation ab.
+In der Hot Zone zählst du doppelt und bekommst doppelt so viel Geld. Ob es sich lohnt, sie zu besetzen, hängt von der Situation ab.
 
-![Die Hot Zone liegt innerhalb der Control Zone und verdoppelt Spielerwertung, XP und Geld. Für Siegpunkte zählt die gewertete Spielerzahl eines Teams in der gesamten Control Zone.](../exports/hot-zone.png)
+![Die Hot Zone liegt innerhalb der Control Zone und verdoppelt Spielerwertung und Geld. Für Siegpunkte zählt die gewertete Spielerzahl eines Teams in der gesamten Control Zone.](../exports/hot-zone.png)
 
 ## Was die Hot Zone bringt
 
-Die Hot Zone bewegt sich innerhalb der Control Zone. Wer sich darin aufhält, zählt bei der Siegpunktberechnung doppelt und bekommt doppelte XP sowie doppelt so viel Geld.
+Die Hot Zone bewegt sich innerhalb der Control Zone. Wer sich darin aufhält, zählt bei der Siegpunktberechnung doppelt und bekommt doppelt so viel Geld. Für XP gibt es keinen Hot-Zone-Bonus.
 
 Das bedeutet nicht, dass euer Team doppelte Siegpunkte erhält. Für die Mehrheitswertung zählt jeder Spieler in der Hot Zone als zwei Spieler.
 
@@ -26,4 +26,4 @@ Achtet auf die ganze Control Zone, die Gegner und eure eigenen Positionen. Die H
 
 ---
 
-Stand: 26. September 2026. Überarbeitet auf Grundlage des [WDF-Guides](https://wdfrontline.com/guides/hot-zone) und der fachlichen Ergänzungen des Guiders. Herkunft der Aussagen: [Projektkontext](../docs/context.md).
+Stand: 27. September 2026. Überarbeitet auf Grundlage des [WDF-Guides](https://wdfrontline.com/guides/hot-zone) und der fachlichen Ergänzungen des Guiders. Herkunft der Aussagen: [Projektkontext](../docs/context.md).

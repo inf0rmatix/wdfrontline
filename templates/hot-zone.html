@@ -51,7 +51,7 @@ input { display:block; width:100%; margin-top:6px; border:1px solid #3d424c; bor
  <section class="editor" id="editor" aria-label="Grafik bearbeiten" hidden>
   <div class="fields">
    <label>Überschrift<input id="title-input" maxlength="24" value="DIE HOT ZONE"></label>
-   <label>Unterzeile<input id="subtitle-input" maxlength="70" value="Du zählst doppelt und bekommst doppelte XP und doppelt so viel Geld."></label>
+   <label>Unterzeile<input id="subtitle-input" maxlength="70" value="Du zählst doppelt und bekommst doppelt so viel Geld."></label>
    <label>Kernaussage<input id="takeaway-input" maxlength="80" value="Die größte gewertete Spielerzahl in der Control Zone bringt Siegpunkte."></label>
    <label>Grafiknummer<input id="number-input" maxlength="6" value="01"></label>
   </div>
@@ -61,11 +61,11 @@ input { display:block; width:100%; margin-top:6px; border:1px solid #3d424c; bor
  <!-- EXPORTFLÄCHE: nur dieses SVG wird als Bild gespeichert. 1440 × 960, Seitenverhältnis 3:2.
       BRAND: Originalfarben der Website. Barlow Condensed / Geist / Geist Mono eingebettet.
       INHALT: Guide https://wdfrontline.com/guides/hot-zone, abgerufen am 26.09.2026.
-      Der Guider hat den doppelten XP-Bonus als fachliche Ergänzung bestätigt. Kontext: docs/context.md.
+      Korrektur des Guiders vom 27.09.2026: Die Hot Zone gibt keinen XP-Bonus. Kontext: docs/context.md.
       Die Skizze ist schematisch; Zonenform und Position der Hot Zone sind schematisch. -->
  <svg id="guide-graphic" xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960" role="img" aria-labelledby="graphic-title graphic-description">
   <title id="graphic-title">Die Hot Zone: Bonus und Siegpunktwertung</title>
-  <desc id="graphic-description">Die Hot Zone bewegt sich innerhalb der Control Zone. Sie verdoppelt Spielerwertung, XP und Geld. Siegpunkte erhält das Team mit der größten gewerteten Spielerzahl in der gesamten Control Zone. Eine feste Squad-Aufteilung wird nicht empfohlen.</desc>
+  <desc id="graphic-description">Die Hot Zone bewegt sich innerhalb der Control Zone. Sie verdoppelt Spielerwertung und Geld. Siegpunkte erhält das Team mit der größten gewerteten Spielerzahl in der gesamten Control Zone. Eine feste Squad-Aufteilung wird nicht empfohlen.</desc>
   <metadata id="font-licenses">Copyright (c) 2023 Vercel, in collaboration with basement.studio
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -277,7 +277,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <text x="56" y="61" class="eyebrow muted">WDF / FIELD GUIDE</text>
   <text x="1384" y="61" text-anchor="end" class="eyebrow muted">ZONEN <tspan fill="#f59e0b" id="graphic-number">01</tspan></text>
   <text x="54" y="158" font-size="88" class="display ink" id="headline">DIE HOT ZONE</text>
-  <text x="58" y="203" font-size="27" class="body muted" id="subtitle">Du zählst doppelt und bekommst doppelte XP und doppelt so viel Geld.</text>
+  <text x="58" y="203" font-size="27" class="body muted" id="subtitle">Du zählst doppelt und bekommst doppelt so viel Geld.</text>
   <path d="M56 238H1384" stroke="#262a30"/>
   <!-- Linke Hälfte: räumliche Beziehung, keine echte Spielkarte. -->
   <g transform="translate(56 272)">
@@ -292,26 +292,23 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
    <rect x="281" y="171" width="230" height="191" fill="url(#hot-hatch)"/>
    <text x="396" y="205" text-anchor="middle" class="mono amber" font-size="20" font-weight="600">HOT ZONE</text>
    <text x="396" y="268" text-anchor="middle" class="display amber" font-size="46">×2 BONUS</text>
-   <text x="396" y="310" text-anchor="middle" class="mono amber" font-size="17">SPIELER · XP · GELD</text>
+   <text x="396" y="310" text-anchor="middle" class="mono amber" font-size="17">SPIELER · GELD</text>
    <text x="75" y="147" class="body ink" font-size="22">Spielerwertung ×1</text>
    <text x="764" y="450" text-anchor="end" font-size="15" class="mono muted">SCHEMATISCH · KEIN MASSSTAB</text>
    <text x="0" y="508" class="label ink">Die Hot Zone bewegt sich innerhalb der Control Zone.</text>
   </g>
-  <!-- Ein gemeinsamer Multiplikator für drei Effekte. -->
+  <!-- Ein gemeinsamer Multiplikator für zwei Effekte. -->
   <g transform="translate(900 272)">
    <text y="22" class="eyebrow muted">02 / HOT-ZONE-BONUS</text>
-   <text y="99" class="display ink" font-size="59">ALLES DOPPELT</text>
+   <text y="99" class="display ink" font-size="59">DER ×2-BONUS</text>
    <text x="0" y="329" class="display amber" font-size="105">×2</text>
-   <path d="M110 297H141M165 195.75H141V398.25H165M141 297H165" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
-   <circle cx="165" cy="195.75" r="4" fill="#f59e0b"/>
-   <circle cx="165" cy="297" r="4" fill="#f59e0b"/>
-   <circle cx="165" cy="398.25" r="4" fill="#f59e0b"/>
-   <text x="187" y="204.75" class="body ink" font-size="29" font-weight="600">Spielerwertung</text>
-   <text x="187" y="239.75" class="body muted" font-size="19">Für die Siegpunktberechnung</text>
-   <text x="187" y="306" class="body ink" font-size="29" font-weight="600">XP</text>
-   <text x="187" y="341" class="body muted" font-size="22">Doppelte Erfahrungspunkte</text>
-   <text x="187" y="407.25" class="body ink" font-size="29" font-weight="600">Geld</text>
-   <text x="187" y="442.25" class="body muted" font-size="22">Doppelter Verdienst</text>
+   <path d="M110 297H141M165 230H141V364H165" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+   <circle cx="165" cy="230" r="4" fill="#f59e0b"/>
+   <circle cx="165" cy="364" r="4" fill="#f59e0b"/>
+   <text x="187" y="239" class="body ink" font-size="29" font-weight="600">Spielerwertung</text>
+   <text x="187" y="274" class="body muted" font-size="19">Für die Siegpunktberechnung</text>
+   <text x="187" y="373" class="body ink" font-size="29" font-weight="600">Geld</text>
+   <text x="187" y="408" class="body muted" font-size="22">Doppelter Verdienst</text>
    <text y="495.25" class="body muted" font-size="20">Siegpunkte sind auch ohne Hot Zone möglich.</text>
   </g>
   <!-- Kernaussage: Siegpunktwertung in der gesamten Control Zone. -->
@@ -321,7 +318,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <text x="82" y="883" class="body ink" font-size="25" font-weight="600" id="takeaway">Die größte gewertete Spielerzahl in der Control Zone bringt Siegpunkte.</text>
   <text x="1349" y="867" text-anchor="end" class="display ink" font-size="29">WARDOGS <tspan fill="#f59e0b">FRONTLINE</tspan></text>
   <text x="56" y="937" class="mono muted" font-size="15">WDFRONTLINE.COM / GUIDES / HOT-ZONE</text>
-  <text x="1384" y="937" text-anchor="end" class="mono muted" font-size="15">GUIDE · XP: GUIDER · 26.09.2026</text>
+  <text x="1384" y="937" text-anchor="end" class="mono muted" font-size="15">WDF GUIDE · 27.09.2026</text>
  </svg>
  </div>
  <footer class="meta"><span>3:2 · Schriften eingebettet · funktioniert offline · Bedienleiste wird nicht exportiert</span><span><a href="https://wdfrontline.com/guides/hot-zone" target="_blank" rel="noopener">Zum Originalguide ↗</a> · <button id="zoom" style="padding:4px 9px;min-height:32px;font-size:12px" aria-pressed="false">Vorschau vergrößern</button></span></footer>

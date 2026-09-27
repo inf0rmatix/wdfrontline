@@ -43,6 +43,8 @@ flowchart LR
 
 ## Bisherige Prüfung
 
-Am 26. September 2026 wurden die HTML-Vorschau, Textbearbeitung und der PNG-Export im Chromium-basierten Browser geprüft. Die Bedienoberfläche wurde bei 375 Pixel Breite geprüft; die Bilddatei mit 2880 × 1920 Pixeln wurde visuell kontrolliert. Nach der XP-Ergänzung wurden die neue Bonusdarstellung und der PNG-Export erneut geprüft.
+Am 26. September 2026 wurden die HTML-Vorschau, Textbearbeitung und der PNG-Export im Chromium-basierten Browser geprüft. Die Bedienoberfläche wurde bei 375 Pixel Breite geprüft; die Bilddatei mit 2880 × 1920 Pixeln wurde visuell kontrolliert. Die Bonusdarstellung und der PNG-Export wurden danach erneut geprüft.
 
 Safari und Firefox sowie eine tatsächliche Einbindung in die WDF-Website sind bisher nicht geprüft. Für eine Veröffentlichung den Export im verwendeten Browser und das Bild im Guide kontrollieren.
+
+Am 27. September 2026 wurde der XP-Bonus nach der Korrektur des Guiders entfernt. Die Grafik zeigt zwei Bonuszweige. Der PNG-Export mit 2880 × 1920 Pixeln wurde erneut im Browser erzeugt und visuell geprüft.

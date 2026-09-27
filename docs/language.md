@@ -26,7 +26,7 @@ Die Beispiele sind redaktionelle Vorschläge. Spielregeln werden dabei nicht erw
 
 ## Hot-Zone-Grafik
 
-Die zentrale Aussage lautet **„Du zählst doppelt und bekommst doppelte XP und doppelt so viel Geld.“** Das Bonusdiagramm erklärt diese drei Effekte. Die Kernaussage zur Siegpunktwertung lautet **„Die größte gewertete Spielerzahl in der Control Zone bringt Siegpunkte.“** Die Grafik gibt keine feste Squad-Aufteilung vor.
+Die zentrale Aussage lautet **„Du zählst doppelt und bekommst doppelt so viel Geld.“** Das Bonusdiagramm erklärt diese beiden Effekte. Die Kernaussage zur Siegpunktwertung lautet **„Die größte gewertete Spielerzahl in der Control Zone bringt Siegpunkte.“** Die Grafik gibt keine feste Squad-Aufteilung vor.
 
 Der Vergleich „2 Spieler zählen wie 4“ wurde im Feedback als holprig und zu eng empfunden. Er zeigt nur einen Teil des Bonus. Die aktuelle Grafik erklärt deshalb das gesamte Konzept.
 

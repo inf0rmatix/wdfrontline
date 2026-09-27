@@ -8,7 +8,7 @@ Stand der Website-Prüfung: 26. September 2026.
 | --- | --- |
 | [Wardogs Frontline](https://wdfrontline.com/) | Farben, Schriftfamilien und Website-Kontext |
 | [Die Hot Zone](https://wdfrontline.com/guides/hot-zone) | Control Zone, Spielerwertung und Geld |
-| Guider-Feedback in der Projektbesprechung | XP ebenfalls verdoppelt; bewegliche Hot Zone; situative Taktik statt fester Squad-Aufteilung; gesamte Control Zone entscheidet |
+| Guider-Feedback in der Projektbesprechung | Korrektur vom 27. September 2026: kein XP-Bonus; bewegliche Hot Zone; situative Taktik statt fester Squad-Aufteilung; gesamte Control Zone entscheidet |
 | [Die erste Partie](https://wdfrontline.com/guides/erste-partie) | Sprachliche Beispiele |
 | [Squad und Funk](https://wdfrontline.com/guides/squad-und-funk) | Sprachliche Beispiele |
 | [Nachschub fahren](https://wdfrontline.com/guides/nachschub-fahren) | Weitere Sprachreferenz |
