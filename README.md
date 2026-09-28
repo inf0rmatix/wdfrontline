@@ -30,6 +30,8 @@ Vorlage und Bild tragen denselben Themennamen. Für den aktuellen Guide sind das
 
 [Die Hot Zone](guides/hot-zone.md) – überarbeiteter Text mit Bonus, Siegpunktwertung und situativer Taktik.
 
+[HTML-Entwurf des vollständigen Guides](guides/hot-zone.html) – eigenständige, responsive Guide-Inhaltsseite mit HTML-Diagrammen. Er zeigt, wie der Guide aussehen könnte, wenn sein HTML frei gestaltet werden kann; die Website-Navigation ist nicht enthalten.
+
 ## Dokumentation
 
 - [Kontext und fachliche Grundlagen](docs/context.md)
